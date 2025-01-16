@@ -1,2 +1,1 @@
-<h1>e-commerce platforms</h1>
-<img src="https://67891f3fff68233ed5cd0050--e-commersbytehyper.netlify.app/">
+[![MasterHead]([https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVxYmlqNHhiNHgwOGN6NzFva2NhY3BhMDhoOW1mdjQzaGJoMzJiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ejlZwfofJ9rpcyos91/giphy.gif))](https://67891f3fff68233ed5cd0050--e-commersbytehyper.netlify.app/)
